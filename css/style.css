@@ -4045,6 +4045,11 @@ body::after {
   }
 }
 
+.inactive_link {
+   pointer-events: none;
+   cursor: default;
+}
+
 @media (min-width: 20em) and (max-width: 83.125em) {
 @supports (padding: clamp( 0.9375rem , 0.442450495rem  +  2.4752475248vw , 2.5rem )) {
     .popup--form .popup__content {
