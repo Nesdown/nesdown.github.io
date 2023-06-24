@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "6VAHG4FB5G.app.digitalplanner",
+				"paths": [ "*" ]
+			}
+		]
+	}
+}
